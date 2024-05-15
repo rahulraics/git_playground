@@ -1,0 +1,5 @@
+git reset --hard <commit hashId>
+git reset --hard 90f18842ff22b1221bc77c85c0e225bf03b4dec9
+git push -f origin main
+
+
